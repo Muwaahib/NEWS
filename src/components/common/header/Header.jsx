@@ -7,12 +7,13 @@ const Header = () => {
   const [navbar, setNavbar] = useState(false)
 
   return (
+    
     <>
       <Head />
       <header>
         <div className='container paddingSmall'>
           <nav>
-            <ul className={navbar ? "navbar" : "flex"} onClick={() => setNavbar(false)}>
+            <ul className={navbar ? "navbar" : "flex"} >
               <li>
                 <Link to='/'>Home</Link>
               </li>

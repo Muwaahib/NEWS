@@ -1,0 +1,37 @@
+.cont{
+    display: flex;
+    gap: 10px;
+}
+
+.ii{
+    width: 100%;
+    margin-top: 10px;
+    background-color: blueviolet;
+}
+.ii img{
+    width: 90%; 
+}
+
+.one{
+    width: 60%;
+    margin-top: 10px;
+}
+.one img{
+    width: 90%;
+}
+
+.two{
+    width: 30%;
+    margin-top: 10px;  
+    font-size: 10px;
+    
+}
+.two p{
+    font-size: 18px;  
+}
+.two img{
+    width: 100%;
+}
+
+
+

@@ -2,10 +2,11 @@
     cursor: pointer;
   }
   .head .logo img {
-    width: 500px;
+    width: 10rem;
   }
   header {
     background-color: #000;
+    display: flex;
     color: #fff;
   }
   header li {

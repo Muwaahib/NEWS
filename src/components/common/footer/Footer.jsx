@@ -58,9 +58,9 @@ const Footer = () => {
       </footer>
       <div className='legal  '>
         <div className='container flexSB'>
-          <p>© all rights reserved</p>
+          <p>© all rights reserved by me don't copy any yet </p>
           <p>
-            made with <i className='fa fa-heart'></i> by gorkhcoder
+            made with <i className='fa fa-heart'></i> by Mrs: Muwaahib
           </p>
         </div>
       </div>
